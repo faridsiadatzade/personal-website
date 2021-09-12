@@ -1,0 +1,144 @@
+{
+    "workExperiences": [
+        {
+            "id": 1,
+            "Company": "Tadbir Pardaz",
+            "position" : "Front-End developer",
+            "from": "September 2020",
+            "to": "",
+            "logo": "tadbir",
+            "description": "Tadbir Pardaz Company with 20 years of successful presence in the capital market and is the only supplier of all products needed by capital market activists."
+        },
+        {
+            "id": 2,
+            "Company": "Rahpooyan",
+            "position" : "Front-End developer",
+            "from": "July 2020",
+            "to": "September 2020",
+            "logo": "rahpooyan",
+            "description": "Rahpooyan Holding has been active in the field of education since 2008 as a top digital publisher and gaining the top national ranking of digital publishing for three consecutive years."
+        },
+        {
+            "id": 3,
+            "Company": "Parham",
+            "position" : "Front-End developer",
+            "from": "December 2019",
+            "to": "July 2020",
+            "logo": "parham",
+            "description": "Parham is a company consisting of several strong startups such as Adwise and Funofilm, and the company's largest activity is in the field of value-added services."
+        },
+        {
+            "id": 4,
+            "Company": "Nokarto",
+            "position" : "Web developer",
+            "from": "June 2019",
+            "to": "November 2019",
+            "logo": "nokarto",
+            "description": "Nokarto is an IT company that provides all related services in the fields of IT, ICT, hardware, software, e-commerce and digital marketing, content production and content marketing."
+        }
+    ],
+	"info": {
+		"name": "Farid Siadatzade",
+		"jobTitle": "Front-End developer",
+		"about": "I am a creative programmer based in Tehran who loves developing web applications and promoting startups.",
+		"DateOfBirth": "February 20, 1997",
+        "Address": "Tehran, Tarasht",
+        "MilitaryService": "Educational Exempt",
+        "Email": "fsiadatzade@gmail.com",
+        "Phone": "+98 936 001 0251"
+	},
+	"skills": [
+		{
+			"header": {
+				"name": "CLIENT SIDE"
+			},
+			"skills": [
+				{ "name": "html/css", "degree": "90" },
+				{ "name": "bootstrap/material ui", "degree": "90" },
+				{ "name": "jQuery", "degree": "90" },
+				{ "name": "javascript", "degree": "80" },
+                { "name": "react/redux", "degree": "70" },
+                { "name": "vue js", "degree": "40" }
+			]
+		},
+		{
+			"header": {
+				"name": "OTHERS ..."
+			},
+			"skills": [
+				{ "name": "git", "degree": "60" },
+				{ "name": "WordPress", "degree": "50" },
+				{ "name": "php", "degree": "40" },
+				{ "name": "Mysql", "degree": "30" },
+                { "name": "ux", "degree": "40" },
+                { "name": "tfs", "degree": "50" }
+			]
+		}
+	],
+	"projects": [
+		{
+            "id": "1",
+			"logo": "adminplus",
+			"title": "Adminplus",
+			"time": "December 2020",
+			"For": "Tadbir",
+			"description": "This project, which is implemented with react stack, is being used for 'Mofid' brokerage",
+			"link": "https://adminplus.mofidonline.com/signin"
+		},
+		{
+            "id": "2",
+			"logo": "onlineplus",
+			"title": "Onlinplus",
+			"time": "September 2020 - December 2020",
+			"For": "Tadbir",
+			"description": "his project was carried out for 40 stock exchange brokerages, including 'Mofid' brokerages",
+			"link": "www.mofidonline.com"
+		},
+        {
+            "id": "3",
+			"logo": "rahpooyan",
+			"title": "Rahpooyan Holding",
+			"time": "July 2020 - September 2020",
+			"For": "Rahpooyan",
+			"description": "Design and rewrite the template of the main website of Rahpooyan Holding based on WordPress",
+			"link": "www.rahpooyan.ir"
+		},
+        {
+            "id": "4",
+			"logo": "delta",
+			"title": "Delta",
+			"time": "July 2019 - September 2019",
+			"For": "Nokarto",
+			"description": "Internal automation and electronic medical file filing of Delta Heart Clinic",
+			"link": "www.panel.clinicdelta.ir"
+		},
+        {
+            "id": "5",
+			"logo": "applyman",
+			"title": "Applyman",
+			"time": "June 2019 - July 2019",
+			"For": "Nokarto",
+			"description": "Plugging in the intelligent assessment form for the study and work residence of the applyman website",
+			"link": "www.applyman.com"
+		},
+        {
+            "id": "6",
+			"logo": "artak",
+			"title": "Artak",
+			"time": "February 2019 - April 2019",
+			"For": "Freelance",
+			"description": "Develop a web application for ISP for manage and direct employees towards internet customers with warehousing and accounting and CRM",
+			"link": "www.applyman.com"
+		}
+	],
+	"contact": {
+        "linkedin": "farid-siadatzadeh",
+		"ContactNumber": "+98 936 001 0251",
+		"EmailAddress": "fsiadatzade@gmail.com",
+		"github": "faridsiadatzade",
+        "twitter": "https://twitter.com/faridSiadatzade",
+        "instagram": "https://www.instagram.com/farid.siadatzadeh",
+        "skype": "https://secure.skype.com/portal/profile?intsrc=client-_-windows-_-8.74.0.152-_-.userInfo.profile&tcg=6a3b05bc-7713-4934-925a-f49a811fd29c",
+        "website": "#"
+	}
+}
