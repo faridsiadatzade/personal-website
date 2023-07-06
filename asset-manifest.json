@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.f0131003.chunk.css",
-    "main.js": "/static/js/main.4e6c8154.chunk.js",
-    "main.js.map": "/static/js/main.4e6c8154.chunk.js.map",
+    "main.css": "/static/css/main.d3ecae9d.chunk.css",
+    "main.js": "/static/js/main.24b3292f.chunk.js",
+    "main.js.map": "/static/js/main.24b3292f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2ff70694.js",
     "runtime-main.js.map": "/static/js/runtime-main.2ff70694.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/static/css/2.7fc9bc2b.chunk.css",
@@ -12,19 +12,20 @@
     "static/js/3.e1e3b80a.chunk.js.map": "/static/js/3.e1e3b80a.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.f0131003.chunk.css.map": "/static/css/main.f0131003.chunk.css.map",
+    "static/css/main.d3ecae9d.chunk.css.map": "/static/css/main.d3ecae9d.chunk.css.map",
     "static/js/2.8e539caa.chunk.js.LICENSE.txt": "/static/js/2.8e539caa.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/cover_bg_2.24d641af.jpg",
     "static/media/about_me_pic2.02e43441.jpg": "/static/media/about_me_pic2.02e43441.jpg",
     "static/media/adminplu.82b3b84f.jpg": "/static/media/adminplu.82b3b84f.jpg",
     "static/media/delta.6196b543.ico": "/static/media/delta.6196b543.ico",
-    "static/media/style.css": "/static/media/icomoon.ea68cea3.woff"
+    "static/media/hamrah-plus-logo.3fb4ef13.svg": "/static/media/hamrah-plus-logo.3fb4ef13.svg",
+    "static/media/style.css": "/static/media/icomoon.f10ab99a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2ff70694.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.8e539caa.chunk.js",
-    "static/css/main.f0131003.chunk.css",
-    "static/js/main.4e6c8154.chunk.js"
+    "static/css/main.d3ecae9d.chunk.css",
+    "static/js/main.24b3292f.chunk.js"
   ]
 }
