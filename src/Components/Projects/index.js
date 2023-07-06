@@ -3,7 +3,7 @@ import AOS from 'aos';
 import "aos/dist/aos.css";
 import divider from "../../Assets/Images/divider.png" ;
 import adminplus from "../../Assets/Images/adminplu.jpg" ;
-import onlineplus from "../../Assets/Images/onlineplus.png" ;
+import hamrahplus from "../../Assets/Images/hamrah-plus-logo.svg" ;
 import rahpooyan from "../../Assets/Images/rahpooyan.png" ;
 import artak from "../../Assets/Images/artak.png" ;
 import delta from "../../Assets/Images/delta.ico" ;
@@ -32,7 +32,7 @@ const Projects = (data) => {
                     <h2 className="title">{item.title}</h2>
                     <span className="position"><p style={{color: "white"}}>For: {item.For}</p></span>
                   </div>
-                  <div className="col-6 text-right"><img className="img-fluid" style={{maxWidth: "120px", maxHeight: "80px"}} src={item.logo == "adminplus" ? adminplus : item.logo == "onlineplus" ? onlineplus : item.logo == "rahpooyan" ? rahpooyan : item.logo == "artak" ? artak : item.logo == "delta" ? delta : item.logo == "applyman" ? applyman : null} /></div>
+                  <div className="col-6 text-right"><img className="img-fluid" style={{maxWidth: "120px", maxHeight: "80px"}} src={item.logo == "adminplus" ? adminplus : item.logo == "hamrahplus" ? hamrahplus : item.logo == "rahpooyan" ? rahpooyan : item.logo == "artak" ? artak : item.logo == "delta" ? delta : item.logo == "applyman" ? applyman : null} /></div>
                   <p className="mt-4">{item.description}</p>
                   <p className="time">{item.time}</p>
                 </div>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67.158" height="122.143" viewBox="0 0 67.158 122.143">
+    <defs>
+        <style>
+            .cls-6,.cls-7{fill:#2245cd}.cls-6{opacity:.5}.cls-7{mix-blend-mode:multiply;isolation:isolate}
+        </style>
+    </defs>
+    <g id="Logo">
+        <path id="Path_600" fill="#0049d3" d="M-115.966 279.552l22.725 12.878-44.486 27.118-22.636-12.818z" transform="translate(160.393 -197.406)"/>
+        <path id="Path_601" fill="#00c2f6" d="M16.987 51.79L39.68 64.611l-.1-82.209-22.639-12.818z" transform="translate(27.478 30.42)"/>
+        <path id="Path_608" fill="#436dff" d="M-13908.406 15366.619l44.43-27.146-.033-82.17-22.486 13.527v10.209l-9.545 5.781v30.236l-12.375 7.336z" transform="translate(13908.431 -15257.299)"/>
+        <path id="Path_602" fill="#2245cd" d="M-80.044-8.181l22.636 12.818L-34.92-8.9l-22.637-12.815z" transform="translate(101.979 21.715)" style="mix-blend-mode:multiply;isolation:isolate" opacity="0.5"/>
+        <path id="Path_603" fill="#2245cd" d="M-80.044 27.91l22.636 12.818v10.207l-22.636-12.818z" transform="translate(101.979 -14.376)"/>
+        <path id="Path_604" d="M-115.055 71.109l22.636 12.818 9.548-5.775-22.636-12.818z" class="cls-6" transform="translate(127.441 -41.594)"/>
+        <path id="Path_605" d="M-115.055 86.511l22.636 12.818v30.238l-22.636-12.818z" class="cls-7" transform="translate(127.441 -56.995)"/>
+        <path id="Path_606" d="M-160.472 204.73l22.636 12.818 12.386-7.347-22.636-12.818z" class="cls-6" transform="translate(160.472 -137.629)"/>
+        <path id="Path_607" d="M-160.472 224.321l22.636 12.818.013 42.225-22.636-12.818z" class="cls-7" transform="translate(160.472 -157.221)"/>
+    </g>
+</svg>

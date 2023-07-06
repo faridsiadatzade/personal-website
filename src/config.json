@@ -40,7 +40,7 @@
 	"info": {
 		"name": "Farid Siadatzade",
 		"jobTitle": "Front-End developer",
-		"about": "I am a creative programmer based in Tehran who loves developing web applications and promoting startups.",
+		"about": "Allow me to introduce myself. With four years of experience in programming, I am deeply passionate about my field and find immense joy in the work I do. I thrive on the challenge of solving complex problems and continuously seek opportunities to expand my knowledge and skill set.",
 		"DateOfBirth": "February 20, 1997",
         "Address": "Tehran, Tarasht",
         "MilitaryService": "Educational Exempt",
@@ -55,10 +55,10 @@
 			"skills": [
 				{ "name": "html/css", "degree": "90" },
 				{ "name": "bootstrap/material ui", "degree": "90" },
-				{ "name": "jQuery", "degree": "90" },
 				{ "name": "javascript", "degree": "80" },
-                { "name": "react/redux", "degree": "70" },
-                { "name": "vue js", "degree": "40" }
+                { "name": "react", "degree": "70" },
+                { "name": "angular", "degree": "40" },
+				{ "name": "jQuery", "degree": "90" }
 			]
 		},
 		{
@@ -71,7 +71,7 @@
 				{ "name": "php", "degree": "40" },
 				{ "name": "Mysql", "degree": "30" },
                 { "name": "ux", "degree": "40" },
-                { "name": "tfs", "degree": "50" }
+                { "name": "tfs", "degree": "80" }
 			]
 		}
 	],
@@ -82,17 +82,17 @@
 			"title": "Adminplus",
 			"time": "December 2020",
 			"For": "Tadbir",
-			"description": "This project, which is implemented with react stack, is being used for 'Mofid' brokerage",
+			"description": "Admin panel development for more than 40 brokers, such as Saman Bank brokerage, Refah Bank,...",
 			"link": "https://adminplus.mofidonline.com/signin"
 		},
 		{
             "id": "2",
-			"logo": "onlineplus",
-			"title": "Onlinplus",
+			"logo": "hamrahplus",
+			"title": "hamrahplus",
 			"time": "September 2020 - December 2020",
 			"For": "Tadbir",
-			"description": "his project was carried out for 40 stock exchange brokerages, including 'Mofid' brokerages",
-			"link": "www.mofidonline.com"
+			"description": "Development and maintenance of the mobile system 'Hamrah Plus' for more than 40 brokers.",
+			"link": "https://mobile.onlinetavana.ir/"
 		},
         {
             "id": "3",
@@ -119,15 +119,6 @@
 			"time": "June 2019 - July 2019",
 			"For": "Nokarto",
 			"description": "Plugging in the intelligent assessment form for the study and work residence of the applyman website",
-			"link": "www.applyman.com"
-		},
-        {
-            "id": "6",
-			"logo": "artak",
-			"title": "Artak",
-			"time": "February 2019 - April 2019",
-			"For": "Freelance",
-			"description": "Develop a web application for ISP for manage and direct employees towards internet customers with warehousing and accounting and CRM",
 			"link": "www.applyman.com"
 		}
 	],
