@@ -2,8 +2,6 @@
 
 # React.js personal website for developers
 
-## Demo : https://FaridSi.ir
-
 - Clone the project
 - Change `src/config.json`
 - `npm install`
